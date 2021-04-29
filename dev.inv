@@ -1,2 +1,2 @@
 [local]
-localhost ansible_user=root
+159.65.252.182 ansible_user=root
